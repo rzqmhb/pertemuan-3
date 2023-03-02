@@ -1,5 +1,5 @@
 @extends('layouts.template')
 @section('title', 'Contact Us')
 @section('content')
-    <p>kontol</p>
+    <p>ashiap</p>
 @endsection

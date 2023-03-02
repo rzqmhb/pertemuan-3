@@ -45,4 +45,4 @@ Route::prefix('program')->group(function(){
 
 Route::get('/about-us', [AboutController::class, 'about'])->name('about');
 
-Route::resource('contact-us', ContactController::class)->name('contact', 'show');
+Route::resource('contact-us', ContactController::class);
