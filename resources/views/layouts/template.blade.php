@@ -51,6 +51,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="contact-us/show">Contact Us</a>
                     </li>
+                    <li class="nav-item">
+                        <p>by Roziq Mahbubi</p>
+                    </li>
                 </ul>
             </div>
         </nav>

@@ -1,5 +1,7 @@
 @extends('layouts.template')
 @section('title', 'Yoyok Buat Tape')
 @section('content')
-<p>yoyok ngadahi tape tok</p>
+    <center>
+        <p>yoyok bobok di atas teratai</p>
+    </center>
 @endsection
